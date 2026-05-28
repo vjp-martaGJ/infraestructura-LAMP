@@ -6,7 +6,7 @@ La solución se basará en una arquitectura monolítica clásica de tres capas s
 | Componente | Tecnología | Rol en la Infraestructura |
 | :--- | :--- | :--- |
 | **Sujeto S.O.** | Ubuntu Server 22.04 LTS | Sistema operativo base de nivel empresarial |
-| **Servidor Web** | Apache 2.4 | Servidor HTTP encargado de procesar peticiones |
+| **Servidor Web** | Apache 2.4 | Servidor HTTP encargado de procesar peticiones || Servidor Web | Apache 2.4.58 (Versión Estable) | Servidor HTTP encargado de procesar peticiones |  
 | **Base de Datos** | MySQL 8.0 / MariaDB | Motor relacional para el almacenamiento seguro |
 | **Procesamiento** | PHP 8.1 | Intérprete para la lógica de la web y gestión |
 
